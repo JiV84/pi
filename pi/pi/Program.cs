@@ -27,6 +27,8 @@ namespace pi
 		public static void Main (string[] args)
 		{
 			Console.WriteLine ("Hello World!");
+			Console.WriteLine ("Rama errores");
+			Console.WriteLine ("Rama errores");
 		}
 	}
 }
